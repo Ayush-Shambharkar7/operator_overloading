@@ -1,6 +1,6 @@
 //Ayush Shambharkar 
 //23070123034
-//Aim - to learn the concepts of constructor overloading concpets.
+//Aim - Implemention of Function and Operator Overloading to perform Sum and Difference using Operator Overloading
 
 #include<iostream>
 using namespace std;
